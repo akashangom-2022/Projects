@@ -14,7 +14,7 @@ def window():
         Timer = int(timeInput.text())
 
         #youtube link
-        link = linkInput.text()
+        link = https://www.youtube.com/watch?v=hW_WFUs3hfQ.text()
 
         #number of views
         views = 1000
